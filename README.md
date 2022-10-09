@@ -8,7 +8,9 @@ Questo repository contiene piccoli e semplici script python volti ad aiutare chi
 Questo script è utile in una situazione "normale" in cui non c'è disponibilità di date per la prenotazione e sostanzialmente vi avvertirà qualora improvvisamente "qualcosa cambiasse" e una data diventasse disponibile.
 
 
-Alla data del 09/10/2022, purtroppo la situazione è invece "anomala" ossia il sito presenta SEMPRE delle disponibilità nelle seguenti date:
+# PROVINCIA DI TORINO
+
+Alla data del 09/10/2022, per quanto riguarda la Provincia di Torino, purtroppo la situazione è invece "anomala" ossia il sito presenta SEMPRE delle disponibilità nelle seguenti date:
 - 06/03/2023
 - 07/03/2023
 - 08/03/2023
